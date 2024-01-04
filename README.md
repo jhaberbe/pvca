@@ -1,7 +1,7 @@
-# pvca
+# PVCA
 Principal Variance Component Analysis using lme4 implemented in Python
 
-Notes: 
+## Notes: 
 
 installation has to be done through conda-forge due to dependencies on pymer4, follow the instructions on pymer4. r-matrix has some incompatibility breaks that aren't accounted for, so you need to specify `r-matrix=1.6_1`. 
 ```
